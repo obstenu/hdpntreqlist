@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+    <node ftnaddress="2:5020/222” requestby="http">
+        <country>Russia</country>
+        <city>Moscow</city>
+        <system>Insanity</system>
+        <sysop>Nikolay B Shpilchin</sysop>
+        <note>Все бонные эхи и горстка локалок, много файлэх</note>
+        <email>owlgrade@gmail.com</email>
+        <protocol>binkp</protocol>
+        <ipaddress>fido.owlsystem.net</ipaddress>
+        <pntrequesturl>http://fido.owlsystem.net/pointreq.html</pntrequesturl>
+        <areasfull>http://fido.owlsystem.net/areasfull</areasfull>
+    </node>
      <node ftnaddress="2:5075/35" requestby="email">
         <country>Russia</country>
         <city>Togliatti</city>
